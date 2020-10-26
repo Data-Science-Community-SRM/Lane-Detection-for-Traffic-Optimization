@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://dscommunity.in">
+	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" />
+</a>
+
 # Lane Detection
 In this project, we'll be detecting lane lines in videos and images of roads using the Computer Vision. Following lane lines is one of the most important traffic rules, so detecting them is a significant task while building models for autonomous(self-driving) vehicles. This project was hosted using Streamlit & deployed using Heroku.
 
@@ -49,4 +54,23 @@ A good reference to understand Hough Line Transforms -> https://www.youtube.com/
 ## Final Processed Image
 
 ![alt text](https://github.com/Data-Science-Community-SRM/Lane-detection-for-traffic-optimization/blob/master/Images/FinalProcessedImage.jpeg)
+
+## Contributors
+
+<table>
+<tr align="center">
+<td>
+
+Rohan Mathur
+
+<p align="center">
+<img src = "https://github.com/Data-Science-Community-SRM/Lane-detection-for-traffic-optimization/blob/master/Contributors/Rohan.jpeg" width="170" height="220" alt="Your Name Here (Insert Your Image Link In Src">
+</p>
+<p align="center">
+<a href = "https://github.com/RohanMathur17"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/rohanmathur17/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
 
