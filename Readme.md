@@ -97,7 +97,7 @@ Aarsh Chaube
 Rusali Saha
 
 <p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/Lane-Detection-for-Traffic-Optimization/blob/master/Contributors/Rusali.png" width="170" height="220" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://github.com/Data-Science-Community-SRM/Lane-Detection-for-Traffic-Optimization/blob/master/Contributors/Rusali.png" width="190" height="350" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/Rusali28"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
