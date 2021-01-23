@@ -114,7 +114,7 @@ Rusali Saha
 Anushka Garg
 
 <p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/Lane-Detection-for-Traffic-Optimization/blob/master/Contributors/Anushka.jpeg" width="190" height="350" alt="anushka">
+<img src = "https://github.com/Data-Science-Community-SRM/Lane-Detection-for-Traffic-Optimization/blob/master/Contributors/Anushka.jpeg" width="170" height="220" alt="anushka">
 </p>
 <p align="center">
 <a href = "https://github.com/anushkagarg5653"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
