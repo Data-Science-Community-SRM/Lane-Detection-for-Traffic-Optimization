@@ -107,3 +107,20 @@ Rusali Saha
 </p>
 </td>
 
+<table>
+<tr align="center">
+<td>
+	
+Anushka Garg
+
+<p align="center">
+<img src = "https://github.com/Data-Science-Community-SRM/Lane-Detection-for-Traffic-Optimization/blob/master/Contributors/Anushka.jpeg" width="190" height="350" alt="anushka">
+</p>
+<p align="center">
+<a href = "https://github.com/anushkagarg5653"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/anushka-garg-b6759318a/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
